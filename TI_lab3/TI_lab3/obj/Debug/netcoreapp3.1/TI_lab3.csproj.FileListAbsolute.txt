@@ -1,0 +1,17 @@
+C:\Users\Katti\source\repos\TI_lab3\TI_lab3\bin\Debug\netcoreapp3.1\TI_lab3.exe
+C:\Users\Katti\source\repos\TI_lab3\TI_lab3\bin\Debug\netcoreapp3.1\TI_lab3.deps.json
+C:\Users\Katti\source\repos\TI_lab3\TI_lab3\bin\Debug\netcoreapp3.1\TI_lab3.runtimeconfig.json
+C:\Users\Katti\source\repos\TI_lab3\TI_lab3\bin\Debug\netcoreapp3.1\TI_lab3.runtimeconfig.dev.json
+C:\Users\Katti\source\repos\TI_lab3\TI_lab3\bin\Debug\netcoreapp3.1\TI_lab3.dll
+C:\Users\Katti\source\repos\TI_lab3\TI_lab3\bin\Debug\netcoreapp3.1\TI_lab3.pdb
+C:\Users\Katti\source\repos\TI_lab3\TI_lab3\obj\Debug\netcoreapp3.1\TI_lab3.csproj.AssemblyReference.cache
+C:\Users\Katti\source\repos\TI_lab3\TI_lab3\obj\Debug\netcoreapp3.1\TI_lab3.Form1.resources
+C:\Users\Katti\source\repos\TI_lab3\TI_lab3\obj\Debug\netcoreapp3.1\TI_lab3.csproj.GenerateResource.cache
+C:\Users\Katti\source\repos\TI_lab3\TI_lab3\obj\Debug\netcoreapp3.1\TI_lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katti\source\repos\TI_lab3\TI_lab3\obj\Debug\netcoreapp3.1\TI_lab3.AssemblyInfoInputs.cache
+C:\Users\Katti\source\repos\TI_lab3\TI_lab3\obj\Debug\netcoreapp3.1\TI_lab3.AssemblyInfo.cs
+C:\Users\Katti\source\repos\TI_lab3\TI_lab3\obj\Debug\netcoreapp3.1\TI_lab3.csproj.CoreCompileInputs.cache
+C:\Users\Katti\source\repos\TI_lab3\TI_lab3\obj\Debug\netcoreapp3.1\TI_lab3.dll
+C:\Users\Katti\source\repos\TI_lab3\TI_lab3\obj\Debug\netcoreapp3.1\TI_lab3.pdb
+C:\Users\Katti\source\repos\TI_lab3\TI_lab3\obj\Debug\netcoreapp3.1\TI_lab3.genruntimeconfig.cache
+C:\Users\Katti\source\repos\TI_lab3\TI_lab3\obj\Debug\netcoreapp3.1\TI_lab3.Properties.Resources.resources
