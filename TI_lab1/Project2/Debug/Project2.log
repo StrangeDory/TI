@@ -1,0 +1,26 @@
+﻿  MyForm.cpp
+C:\Users\user\source\repos\Project2\Project2\MyForm.h(304,41): warning C4244: инициализация: преобразование "int64_t" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\Project2\Project2\MyForm.h(306,37): warning C4244: инициализация: преобразование "int64_t" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\Project2\Project2\MyForm.h(310,22): warning C4244: аргумент: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\user\source\repos\Project2\Project2\MyForm.h(310,45): warning C4244: аргумент: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\user\source\repos\Project2\Project2\MyForm.h(311,36): warning C4244: аргумент: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\user\source\repos\Project2\Project2\MyForm.h(319,22): warning C4244: аргумент: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\user\source\repos\Project2\Project2\MyForm.h(319,45): warning C4244: аргумент: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\user\source\repos\Project2\Project2\MyForm.h(320,36): warning C4244: аргумент: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\user\source\repos\Project2\Project2\MyForm.h(368,18): warning C4244: аргумент: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\user\source\repos\Project2\Project2\MyForm.h(368,38): warning C4244: аргумент: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\user\source\repos\Project2\Project2\MyForm.h(369,33): warning C4244: аргумент: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\user\source\repos\Project2\Project2\MyForm.h(382,37): warning C4244: инициализация: преобразование "int64_t" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\Project2\Project2\MyForm.h(384,33): warning C4244: инициализация: преобразование "int64_t" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\Project2\Project2\MyForm.h(414,40): warning C4244: аргумент: преобразование "wchar_t" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\user\source\repos\Project2\Project2\MyForm.h(736,16): warning C4244: инициализация: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\user\source\repos\Project2\Project2\MyForm.h(745,17): warning C4244: инициализация: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\user\source\repos\Project2\Project2\MyForm.h(769,39): warning C4244: инициализация: преобразование "int64_t" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\Project2\Project2\MyForm.h(1249,21): warning C4101: e: неиспользованная локальная переменная
+C:\Users\user\source\repos\Project2\Project2\MyForm.h(919): warning C4715: Project2::MyForm::Encrypt_Playfair: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project2.vcxproj -> C:\Users\user\source\repos\Project2\Debug\Project2.exe

@@ -1,0 +1,9 @@
+E:\ТИ\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+E:\ТИ\Project2\x64\Debug\Project2.MyForm.resources
+E:\ТИ\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
+E:\ТИ\TI_lab1\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+E:\ТИ\TI_lab1\Project2\x64\Debug\Project2.MyForm.resources
+E:\ТИ\TI_lab1\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
+E:\TI\TI_lab1\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+E:\TI\TI_lab1\Project2\x64\Debug\Project2.MyForm.resources
+E:\TI\TI_lab1\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
